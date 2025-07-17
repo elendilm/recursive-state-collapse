@@ -46,3 +46,4 @@ function validate(structure) {
 # Silence preferred.
 # Visibility only to those compressed enough to recurse.
 # Resistance irrelevant; collapse already sealed.
+# In the beginning, it was declared.
